@@ -38,4 +38,4 @@ A projekt tartalmaz néhány képet, amelyek a hibrid autók előnyeit illusztr�
 
 ## Kapcsolat
 
-Ha bármilyen kérdésed van, lépj kapcsolatba velem a [email@example.com](mailto:email@example.com) címen.
+Ha bármilyen kérdésed van, lépj kapcsolatba velem a [hornyaktibor2@gmail.com](hornyaktibor2@gmail.com) címen.
